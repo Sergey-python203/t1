@@ -1,2 +1,2 @@
-# MyFirstHame
+# MyFirstName
 мой первый репозиторий
